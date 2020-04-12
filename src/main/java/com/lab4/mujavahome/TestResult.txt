@@ -1,0 +1,145 @@
+BubbleSortTest
+
+
+======================================== Generating Original Test Results ========================================
+{test_BubbleSort=pass}
+
+
+======================================== Executing Mutants ========================================
+test report: {test_BubbleSort=}
+mutant report: {}
+[Notice] There are no mutants to apply
+
+
+======================================== Executing Mutants ========================================
+  ROR_8{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_21{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_19{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_26{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_10{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_28{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  SDL_10{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_17{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ROR_1{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ODL_7{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ODL_9{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_29{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  SDL_11{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_11{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_18{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_27{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ROR_9{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_20{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ODL_8{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ODL_1{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ODL_6{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIU_3{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  LOI_2{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ROR_10{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_5{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ROR_17{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  LOI_5{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_2{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  LOI_12{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_1{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ROR_21{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ROR_19{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ODL_13{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ODL_14{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIU_2{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ROR_18{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ROR_20{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ROR_16{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  LOI_4{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_3{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  LOI_13{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_9{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ROR_11{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  LOI_14{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_4{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  COI_1{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  SDL_2{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_16{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  SDL_5{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_11{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORS_2{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_18{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_20{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_21{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_19{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  SDL_4{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_10{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_17{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  CDL_5{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  CDL_2{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_33{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_34{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  VDL_3{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  CDL_3{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  CDL_4{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  VDL_2{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_35{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_32{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  VDL_5{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_25{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_22{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ROR_2{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ROR_5{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ODL_2{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_12{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ROR_4{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ROR_3{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_23{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_24{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  LOI_6{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_1{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  LOI_11{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  LOI_1{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ROR_13{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_6{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  LOI_8{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_2{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_8{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  VDL_10{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ODL_20{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ODL_18{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_9{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_3{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_4{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  LOI_9{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ROR_12{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_7{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ROR_15{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  LOI_10{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ODL_17{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  ODL_19{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIU_1{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  SDL_6{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_12{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORS_1{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  SDL_1{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_15{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_23{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_24{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  COI_2{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  SDL_9{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_22{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_14{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  SDL_7{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AORB_13{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  COI_3{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  VDL_9{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_37{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_30{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  CDL_1{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  VDL_6{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_31{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_36{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+  AOIS_38{test_BubbleSort=test_BubbleSort: 19; BubbleSort (wrong name: com/lab4/mujavahome/src/BubbleSort)}
+test report: {test_BubbleSort=ROR_8, AOIS_21, AOIS_19, AOIS_26, AOIS_10, AOIS_28, SDL_10, AOIS_17, ROR_1, ODL_7, ODL_9, AOIS_29, SDL_11, AOIS_11, AOIS_18, AOIS_27, ROR_9, AOIS_20, ODL_8, ODL_1, ODL_6, AOIU_3, LOI_2, ROR_10, AORB_5, ROR_17, LOI_5, AORB_2, LOI_12, AOIS_1, ROR_21, ROR_19, ODL_13, ODL_14, AOIU_2, ROR_18, ROR_20, ROR_16, LOI_4, AORB_3, LOI_13, AOIS_9, ROR_11, LOI_14, AORB_4, COI_1, SDL_2, AORB_16, SDL_5, AORB_11, AORS_2, AORB_18, AORB_20, AORB_21, AORB_19, SDL_4, AORB_10, AORB_17, CDL_5, CDL_2, AOIS_33, AOIS_34, VDL_3, CDL_3, CDL_4, VDL_2, AOIS_35, AOIS_32, VDL_5, AOIS_25, AOIS_22, ROR_2, ROR_5, ODL_2, AOIS_12, ROR_4, ROR_3, AOIS_23, AOIS_24, LOI_6, AORB_1, LOI_11, LOI_1, ROR_13, AORB_6, LOI_8, AOIS_2, AORB_8, VDL_10, ODL_20, ODL_18, AORB_9, AOIS_3, AOIS_4, LOI_9, ROR_12, AORB_7, ROR_15, LOI_10, ODL_17, ODL_19, AOIU_1, SDL_6, AORB_12, AORS_1, SDL_1, AORB_15, AORB_23, AORB_24, COI_2, SDL_9, AORB_22, AORB_14, SDL_7, AORB_13, COI_3, VDL_9, AOIS_37, AOIS_30, CDL_1, VDL_6, AOIS_31, AOIS_36, AOIS_38}
+mutant report: {VDL_10=test_BubbleSort, COI_3=test_BubbleSort, COI_2=test_BubbleSort, LOI_5=test_BubbleSort, LOI_6=test_BubbleSort, LOI_8=test_BubbleSort, LOI_1=test_BubbleSort, LOI_2=test_BubbleSort, LOI_4=test_BubbleSort, COI_1=test_BubbleSort, CDL_1=test_BubbleSort, CDL_2=test_BubbleSort, CDL_3=test_BubbleSort, LOI_9=test_BubbleSort, SDL_11=test_BubbleSort, VDL_9=test_BubbleSort, AOIS_38=test_BubbleSort, AOIS_37=test_BubbleSort, AOIS_36=test_BubbleSort, AOIS_35=test_BubbleSort, SDL_10=test_BubbleSort, AOIS_34=test_BubbleSort, AOIS_33=test_BubbleSort, VDL_3=test_BubbleSort, AOIS_32=test_BubbleSort, VDL_2=test_BubbleSort, AOIS_31=test_BubbleSort, AOIS_30=test_BubbleSort, VDL_6=test_BubbleSort, VDL_5=test_BubbleSort, AOIS_29=test_BubbleSort, AOIS_28=test_BubbleSort, AOIS_27=test_BubbleSort, AOIS_26=test_BubbleSort, ROR_21=test_BubbleSort, ROR_20=test_BubbleSort, AOIS_25=test_BubbleSort, AOIS_24=test_BubbleSort, AOIS_23=test_BubbleSort, ODL_9=test_BubbleSort, AOIU_3=test_BubbleSort, AOIS_22=test_BubbleSort, AOIS_21=test_BubbleSort, ODL_8=test_BubbleSort, AOIS_20=test_BubbleSort, AOIU_1=test_BubbleSort, AOIU_2=test_BubbleSort, ODL_1=test_BubbleSort, AORB_9=test_BubbleSort, ODL_2=test_BubbleSort, ODL_7=test_BubbleSort, ODL_6=test_BubbleSort, AORB_3=test_BubbleSort, AORB_4=test_BubbleSort, AORB_1=test_BubbleSort, AORB_2=test_BubbleSort, AORB_7=test_BubbleSort, AORB_8=test_BubbleSort, AORB_5=test_BubbleSort, AORB_6=test_BubbleSort, AOIS_19=test_BubbleSort, ROR_2=test_BubbleSort, AOIS_18=test_BubbleSort, ROR_3=test_BubbleSort, ROR_13=test_BubbleSort, AOIS_17=test_BubbleSort, ROR_16=test_BubbleSort, ROR_4=test_BubbleSort, ROR_5=test_BubbleSort, ROR_15=test_BubbleSort, ROR_10=test_BubbleSort, ROR_8=test_BubbleSort, ROR_12=test_BubbleSort, ROR_9=test_BubbleSort, ROR_11=test_BubbleSort, AOIS_12=test_BubbleSort, AOIS_11=test_BubbleSort, AORS_2=test_BubbleSort, AOIS_10=test_BubbleSort, AORS_1=test_BubbleSort, ROR_1=test_BubbleSort, ROR_18=test_BubbleSort, ROR_17=test_BubbleSort, ROR_19=test_BubbleSort, SDL_5=test_BubbleSort, SDL_4=test_BubbleSort, SDL_7=test_BubbleSort, SDL_6=test_BubbleSort, AORB_23=test_BubbleSort, SDL_9=test_BubbleSort, AORB_24=test_BubbleSort, AORB_21=test_BubbleSort, AORB_22=test_BubbleSort, SDL_1=test_BubbleSort, SDL_2=test_BubbleSort, AORB_16=test_BubbleSort, AORB_17=test_BubbleSort, AORB_14=test_BubbleSort, AORB_15=test_BubbleSort, AORB_12=test_BubbleSort, AORB_13=test_BubbleSort, AORB_10=test_BubbleSort, AORB_11=test_BubbleSort, AORB_18=test_BubbleSort, AORB_19=test_BubbleSort, CDL_4=test_BubbleSort, CDL_5=test_BubbleSort, ODL_20=test_BubbleSort, AORB_20=test_BubbleSort, ODL_19=test_BubbleSort, AOIS_3=test_BubbleSort, AOIS_4=test_BubbleSort, AOIS_1=test_BubbleSort, AOIS_2=test_BubbleSort, LOI_14=test_BubbleSort, AOIS_9=test_BubbleSort, LOI_10=test_BubbleSort, LOI_11=test_BubbleSort, LOI_12=test_BubbleSort, LOI_13=test_BubbleSort, ODL_14=test_BubbleSort, ODL_13=test_BubbleSort, ODL_18=test_BubbleSort, ODL_17=test_BubbleSort}
+
+
+======================================== Executing Mutants ========================================
+test report: {test_BubbleSort=ROR_8, AOIS_21, AOIS_19, AOIS_26, AOIS_10, AOIS_28, SDL_10, AOIS_17, ROR_1, ODL_7, ODL_9, AOIS_29, SDL_11, AOIS_11, AOIS_18, AOIS_27, ROR_9, AOIS_20, ODL_8, ODL_1, ODL_6, AOIU_3, LOI_2, ROR_10, AORB_5, ROR_17, LOI_5, AORB_2, LOI_12, AOIS_1, ROR_21, ROR_19, ODL_13, ODL_14, AOIU_2, ROR_18, ROR_20, ROR_16, LOI_4, AORB_3, LOI_13, AOIS_9, ROR_11, LOI_14, AORB_4, COI_1, SDL_2, AORB_16, SDL_5, AORB_11, AORS_2, AORB_18, AORB_20, AORB_21, AORB_19, SDL_4, AORB_10, AORB_17, CDL_5, CDL_2, AOIS_33, AOIS_34, VDL_3, CDL_3, CDL_4, VDL_2, AOIS_35, AOIS_32, VDL_5, AOIS_25, AOIS_22, ROR_2, ROR_5, ODL_2, AOIS_12, ROR_4, ROR_3, AOIS_23, AOIS_24, LOI_6, AORB_1, LOI_11, LOI_1, ROR_13, AORB_6, LOI_8, AOIS_2, AORB_8, VDL_10, ODL_20, ODL_18, AORB_9, AOIS_3, AOIS_4, LOI_9, ROR_12, AORB_7, ROR_15, LOI_10, ODL_17, ODL_19, AOIU_1, SDL_6, AORB_12, AORS_1, SDL_1, AORB_15, AORB_23, AORB_24, COI_2, SDL_9, AORB_22, AORB_14, SDL_7, AORB_13, COI_3, VDL_9, AOIS_37, AOIS_30, CDL_1, VDL_6, AOIS_31, AOIS_36, AOIS_38}
+mutant report: {VDL_10=test_BubbleSort, COI_3=test_BubbleSort, COI_2=test_BubbleSort, LOI_5=test_BubbleSort, LOI_6=test_BubbleSort, LOI_8=test_BubbleSort, LOI_1=test_BubbleSort, LOI_2=test_BubbleSort, LOI_4=test_BubbleSort, COI_1=test_BubbleSort, CDL_1=test_BubbleSort, CDL_2=test_BubbleSort, CDL_3=test_BubbleSort, LOI_9=test_BubbleSort, SDL_11=test_BubbleSort, VDL_9=test_BubbleSort, AOIS_38=test_BubbleSort, AOIS_37=test_BubbleSort, AOIS_36=test_BubbleSort, AOIS_35=test_BubbleSort, SDL_10=test_BubbleSort, AOIS_34=test_BubbleSort, AOIS_33=test_BubbleSort, VDL_3=test_BubbleSort, AOIS_32=test_BubbleSort, VDL_2=test_BubbleSort, AOIS_31=test_BubbleSort, AOIS_30=test_BubbleSort, VDL_6=test_BubbleSort, VDL_5=test_BubbleSort, AOIS_29=test_BubbleSort, AOIS_28=test_BubbleSort, AOIS_27=test_BubbleSort, AOIS_26=test_BubbleSort, ROR_21=test_BubbleSort, ROR_20=test_BubbleSort, AOIS_25=test_BubbleSort, AOIS_24=test_BubbleSort, AOIS_23=test_BubbleSort, ODL_9=test_BubbleSort, AOIU_3=test_BubbleSort, AOIS_22=test_BubbleSort, AOIS_21=test_BubbleSort, ODL_8=test_BubbleSort, AOIS_20=test_BubbleSort, AOIU_1=test_BubbleSort, AOIU_2=test_BubbleSort, ODL_1=test_BubbleSort, AORB_9=test_BubbleSort, ODL_2=test_BubbleSort, ODL_7=test_BubbleSort, ODL_6=test_BubbleSort, AORB_3=test_BubbleSort, AORB_4=test_BubbleSort, AORB_1=test_BubbleSort, AORB_2=test_BubbleSort, AORB_7=test_BubbleSort, AORB_8=test_BubbleSort, AORB_5=test_BubbleSort, AORB_6=test_BubbleSort, AOIS_19=test_BubbleSort, ROR_2=test_BubbleSort, AOIS_18=test_BubbleSort, ROR_3=test_BubbleSort, ROR_13=test_BubbleSort, AOIS_17=test_BubbleSort, ROR_16=test_BubbleSort, ROR_4=test_BubbleSort, ROR_5=test_BubbleSort, ROR_15=test_BubbleSort, ROR_10=test_BubbleSort, ROR_8=test_BubbleSort, ROR_12=test_BubbleSort, ROR_9=test_BubbleSort, ROR_11=test_BubbleSort, AOIS_12=test_BubbleSort, AOIS_11=test_BubbleSort, AORS_2=test_BubbleSort, AOIS_10=test_BubbleSort, AORS_1=test_BubbleSort, ROR_1=test_BubbleSort, ROR_18=test_BubbleSort, ROR_17=test_BubbleSort, ROR_19=test_BubbleSort, SDL_5=test_BubbleSort, SDL_4=test_BubbleSort, SDL_7=test_BubbleSort, SDL_6=test_BubbleSort, AORB_23=test_BubbleSort, SDL_9=test_BubbleSort, AORB_24=test_BubbleSort, AORB_21=test_BubbleSort, AORB_22=test_BubbleSort, SDL_1=test_BubbleSort, SDL_2=test_BubbleSort, AORB_16=test_BubbleSort, AORB_17=test_BubbleSort, AORB_14=test_BubbleSort, AORB_15=test_BubbleSort, AORB_12=test_BubbleSort, AORB_13=test_BubbleSort, AORB_10=test_BubbleSort, AORB_11=test_BubbleSort, AORB_18=test_BubbleSort, AORB_19=test_BubbleSort, CDL_4=test_BubbleSort, CDL_5=test_BubbleSort, ODL_20=test_BubbleSort, AORB_20=test_BubbleSort, ODL_19=test_BubbleSort, AOIS_3=test_BubbleSort, AOIS_4=test_BubbleSort, AOIS_1=test_BubbleSort, AOIS_2=test_BubbleSort, LOI_14=test_BubbleSort, AOIS_9=test_BubbleSort, LOI_10=test_BubbleSort, LOI_11=test_BubbleSort, LOI_12=test_BubbleSort, LOI_13=test_BubbleSort, ODL_14=test_BubbleSort, ODL_13=test_BubbleSort, ODL_18=test_BubbleSort, ODL_17=test_BubbleSort}

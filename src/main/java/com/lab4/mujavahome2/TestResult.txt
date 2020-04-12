@@ -1,0 +1,164 @@
+APLUSB
+
+
+======================================== Generating Original Test Results ========================================
+{initializationError=initializationError: ; No runnable methods}
+
+
+======================================== Executing Mutants ========================================
+test report: {}
+mutant report: {}
+[Notice] There are no mutants to apply
+
+
+======================================== Executing Mutants ========================================
+  ODL_1{initializationError=initializationError: ; No runnable methods}
+  LOI_2{initializationError=initializationError: ; No runnable methods}
+  AOIS_8{initializationError=initializationError: ; No runnable methods}
+  AORB_2{initializationError=initializationError: ; No runnable methods}
+  AOIS_1{initializationError=initializationError: ; No runnable methods}
+  AOIS_6{initializationError=initializationError: ; No runnable methods}
+  AOIS_7{initializationError=initializationError: ; No runnable methods}
+  AORB_3{initializationError=initializationError: ; No runnable methods}
+  AORB_4{initializationError=initializationError: ; No runnable methods}
+  VDL_2{initializationError=initializationError: ; No runnable methods}
+  ODL_2{initializationError=initializationError: ; No runnable methods}
+  AORB_1{initializationError=initializationError: ; No runnable methods}
+  LOI_1{initializationError=initializationError: ; No runnable methods}
+  AOIS_5{initializationError=initializationError: ; No runnable methods}
+  AOIS_2{initializationError=initializationError: ; No runnable methods}
+  AOIS_3{initializationError=initializationError: ; No runnable methods}
+  AOIS_4{initializationError=initializationError: ; No runnable methods}
+  AOIU_1{initializationError=initializationError: ; No runnable methods}
+  SDL_1{initializationError=initializationError: ; No runnable methods}
+  VDL_1{initializationError=initializationError: ; No runnable methods}
+test report: {}
+mutant report: {AOIS_5=, AOIS_6=, VDL_2=, AOIS_3=, AOIU_1=, AOIS_4=, VDL_1=, AOIS_1=, LOI_1=, LOI_2=, AOIS_2=, ODL_1=, ODL_2=, AOIS_7=, AOIS_8=, AORB_3=, AORB_4=, AORB_1=, AORB_2=, SDL_1=}
+
+
+======================================== Executing Mutants ========================================
+test report: {}
+mutant report: {AOIS_5=, AOIS_6=, VDL_2=, AOIS_3=, AOIU_1=, AOIS_4=, VDL_1=, AOIS_1=, LOI_1=, LOI_2=, AOIS_2=, ODL_1=, ODL_2=, AOIS_7=, AOIS_8=, AORB_3=, AORB_4=, AORB_1=, AORB_2=, SDL_1=}
+APLUSB
+
+
+======================================== Generating Original Test Results ========================================
+{initializationError=initializationError: ; No runnable methods}
+
+
+======================================== Executing Mutants ========================================
+test report: {}
+mutant report: {}
+[Notice] There are no mutants to apply
+
+
+======================================== Executing Mutants ========================================
+  ODL_1{initializationError=initializationError: ; No runnable methods}
+  LOI_2{initializationError=initializationError: ; No runnable methods}
+  AOIS_8{initializationError=initializationError: ; No runnable methods}
+  AORB_2{initializationError=initializationError: ; No runnable methods}
+  AOIS_1{initializationError=initializationError: ; No runnable methods}
+  AOIS_6{initializationError=initializationError: ; No runnable methods}
+  AOIS_7{initializationError=initializationError: ; No runnable methods}
+  AORB_3{initializationError=initializationError: ; No runnable methods}
+  AORB_4{initializationError=initializationError: ; No runnable methods}
+  VDL_2{initializationError=initializationError: ; No runnable methods}
+  ODL_2{initializationError=initializationError: ; No runnable methods}
+  AORB_1{initializationError=initializationError: ; No runnable methods}
+  LOI_1{initializationError=initializationError: ; No runnable methods}
+  AOIS_5{initializationError=initializationError: ; No runnable methods}
+  AOIS_2{initializationError=initializationError: ; No runnable methods}
+  AOIS_3{initializationError=initializationError: ; No runnable methods}
+  AOIS_4{initializationError=initializationError: ; No runnable methods}
+  AOIU_1{initializationError=initializationError: ; No runnable methods}
+  SDL_1{initializationError=initializationError: ; No runnable methods}
+  VDL_1{initializationError=initializationError: ; No runnable methods}
+test report: {}
+mutant report: {AOIS_5=, AOIS_6=, VDL_2=, AOIS_3=, AOIU_1=, AOIS_4=, VDL_1=, AOIS_1=, LOI_1=, LOI_2=, AOIS_2=, ODL_1=, ODL_2=, AOIS_7=, AOIS_8=, AORB_3=, AORB_4=, AORB_1=, AORB_2=, SDL_1=}
+
+
+======================================== Executing Mutants ========================================
+test report: {}
+mutant report: {AOIS_5=, AOIS_6=, VDL_2=, AOIS_3=, AOIU_1=, AOIS_4=, VDL_1=, AOIS_1=, LOI_1=, LOI_2=, AOIS_2=, ODL_1=, ODL_2=, AOIS_7=, AOIS_8=, AORB_3=, AORB_4=, AORB_1=, AORB_2=, SDL_1=}
+APLUSB
+
+
+======================================== Generating Original Test Results ========================================
+{initializationError=initializationError: ; No runnable methods}
+
+
+======================================== Executing Mutants ========================================
+test report: {}
+mutant report: {}
+[Notice] There are no mutants to apply
+
+
+======================================== Executing Mutants ========================================
+  ODL_1{initializationError=initializationError: ; No runnable methods}
+  LOI_2{initializationError=initializationError: ; No runnable methods}
+  AOIS_8{initializationError=initializationError: ; No runnable methods}
+  AORB_2{initializationError=initializationError: ; No runnable methods}
+  AOIS_1{initializationError=initializationError: ; No runnable methods}
+  AOIS_6{initializationError=initializationError: ; No runnable methods}
+  AOIS_7{initializationError=initializationError: ; No runnable methods}
+  AORB_3{initializationError=initializationError: ; No runnable methods}
+  AORB_4{initializationError=initializationError: ; No runnable methods}
+  VDL_2{initializationError=initializationError: ; No runnable methods}
+  ODL_2{initializationError=initializationError: ; No runnable methods}
+  AORB_1{initializationError=initializationError: ; No runnable methods}
+  LOI_1{initializationError=initializationError: ; No runnable methods}
+  AOIS_5{initializationError=initializationError: ; No runnable methods}
+  AOIS_2{initializationError=initializationError: ; No runnable methods}
+  AOIS_3{initializationError=initializationError: ; No runnable methods}
+  AOIS_4{initializationError=initializationError: ; No runnable methods}
+  AOIU_1{initializationError=initializationError: ; No runnable methods}
+  SDL_1{initializationError=initializationError: ; No runnable methods}
+  VDL_1{initializationError=initializationError: ; No runnable methods}
+test report: {}
+mutant report: {AOIS_5=, AOIS_6=, VDL_2=, AOIS_3=, AOIU_1=, AOIS_4=, VDL_1=, AOIS_1=, LOI_1=, LOI_2=, AOIS_2=, ODL_1=, ODL_2=, AOIS_7=, AOIS_8=, AORB_3=, AORB_4=, AORB_1=, AORB_2=, SDL_1=}
+
+
+======================================== Executing Mutants ========================================
+test report: {}
+mutant report: {AOIS_5=, AOIS_6=, VDL_2=, AOIS_3=, AOIU_1=, AOIS_4=, VDL_1=, AOIS_1=, LOI_1=, LOI_2=, AOIS_2=, ODL_1=, ODL_2=, AOIS_7=, AOIS_8=, AORB_3=, AORB_4=, AORB_1=, AORB_2=, SDL_1=}
+APLUSBTest
+
+
+======================================== Generating Original Test Results ========================================
+{test_plus=pass}
+
+
+======================================== Executing Mutants ========================================
+test report: {test_plus=}
+mutant report: {}
+[Notice] There are no mutants to apply
+
+
+======================================== Executing Mutants ========================================
+  ODL_1{test_plus=test_plus: 11; expected:<5> but was:<2>}
+  LOI_2{test_plus=test_plus: 11; expected:<5> but was:<-2>}
+  AOIS_8{test_plus=pass}
+  AORB_2{test_plus=test_plus: 11; expected:<5> but was:<0>}
+  AOIS_1{test_plus=test_plus: 11; expected:<5> but was:<6>}
+  AOIS_6{test_plus=test_plus: 11; expected:<5> but was:<4>}
+  AOIS_7{test_plus=pass}
+  AORB_3{test_plus=test_plus: 11; expected:<5> but was:<2>}
+  AORB_4{test_plus=test_plus: 11; expected:<5> but was:<-1>}
+  VDL_2{test_plus=test_plus: 11; expected:<5> but was:<2>}
+  ODL_2{test_plus=test_plus: 11; expected:<5> but was:<3>}
+  AORB_1{test_plus=test_plus: 11; expected:<5> but was:<6>}
+  LOI_1{test_plus=test_plus: 11; expected:<5> but was:<0>}
+  AOIS_5{test_plus=test_plus: 11; expected:<5> but was:<6>}
+  AOIS_2{test_plus=test_plus: 11; expected:<5> but was:<4>}
+  AOIS_3{test_plus=pass}
+  AOIS_4{test_plus=pass}
+  AOIU_1{test_plus=test_plus: 11; expected:<5> but was:<1>}
+  SDL_1{test_plus=test_plus: 11; expected:<5> but was:<0>}
+  VDL_1{test_plus=test_plus: 11; expected:<5> but was:<3>}
+test report: {test_plus=ODL_1, LOI_2, AORB_2, AOIS_1, AOIS_6, AORB_3, AORB_4, VDL_2, ODL_2, AORB_1, LOI_1, AOIS_5, AOIS_2, AOIU_1, SDL_1, VDL_1}
+mutant report: {AOIS_5=test_plus, AOIS_6=test_plus, VDL_2=test_plus, AOIS_3=, AOIU_1=test_plus, AOIS_4=, VDL_1=test_plus, AOIS_1=test_plus, LOI_1=test_plus, LOI_2=test_plus, AOIS_2=test_plus, ODL_1=test_plus, ODL_2=test_plus, AOIS_7=, AOIS_8=, AORB_3=test_plus, AORB_4=test_plus, AORB_1=test_plus, AORB_2=test_plus, SDL_1=test_plus}
+
+
+======================================== Executing Mutants ========================================
+test report: {test_plus=ODL_1, LOI_2, AORB_2, AOIS_1, AOIS_6, AORB_3, AORB_4, VDL_2, ODL_2, AORB_1, LOI_1, AOIS_5, AOIS_2, AOIU_1, SDL_1, VDL_1}
+mutant report: {AOIS_5=test_plus, AOIS_6=test_plus, VDL_2=test_plus, AOIS_3=, AOIU_1=test_plus, AOIS_4=, VDL_1=test_plus, AOIS_1=test_plus, LOI_1=test_plus, LOI_2=test_plus, AOIS_2=test_plus, ODL_1=test_plus, ODL_2=test_plus, AOIS_7=, AOIS_8=, AORB_3=test_plus, AORB_4=test_plus, AORB_1=test_plus, AORB_2=test_plus, SDL_1=test_plus}
